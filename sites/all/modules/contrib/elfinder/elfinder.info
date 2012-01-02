@@ -1,0 +1,11 @@
+name = elFinder
+description = AJAX file manager with Wysiwyg API capable editors support.
+package = User interface
+configure = "admin/config/elfinder"
+
+; Information added by drupal.org packaging script on 2011-12-30
+version = "7.x-1.x-dev"
+core = "7.x"
+project = "elfinder"
+datestamp = "1325247115"
+

@@ -1,0 +1,9 @@
+[16-Sep-2011 01:47:41] PHP Fatal error:  Call to undefined function  content_fields() in /home/thedrup1/public_html/sites/all/modules/contrib/elfinder/modules/elfinder_ffsel/elfinder_ffsel.module on line 148
+[29-Dec-2011 16:24:36] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home/thedrup1/public_html/sites/all/themes/sky/template.php on line 17
+[29-Dec-2011 16:24:49] PHP Fatal error:  Call to undefined function  load_subtheme_media_queries() in /home/thedrup1/public_html/sites/all/themes/sky/template.php on line 17
+[29-Dec-2011 16:26:05] PHP Fatal error:  Call to undefined function  get_color_scheme_name() in /home/thedrup1/public_html/sites/all/themes/sky/template.php on line 21
+[29-Dec-2011 16:26:30] PHP Fatal error:  Call to undefined function  css_browser_selector() in /home/thedrup1/public_html/sites/all/themes/sky/template.php on line 29
+[29-Dec-2011 17:31:26] PHP Parse error:  syntax error, unexpected T_STRING in /home/thedrup1/public_html/sites/default/settings.php on line 284
+[29-Dec-2011 17:31:27] PHP Parse error:  syntax error, unexpected T_STRING in /home/thedrup1/public_html/sites/default/settings.php on line 284
+[29-Dec-2011 17:31:31] PHP Parse error:  syntax error, unexpected T_STRING in /home/thedrup1/public_html/sites/default/settings.php on line 284
+[31-Dec-2011 19:38:53] PHP Fatal error:  Call to undefined function  content_fields() in /home/thedrup1/public_html/sites/all/modules/contrib/elfinder/modules/elfinder_ffsel/elfinder_ffsel.module on line 147
