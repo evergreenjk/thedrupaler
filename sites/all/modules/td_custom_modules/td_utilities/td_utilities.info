@@ -1,0 +1,7 @@
+name = TD Utilities 
+description = "Custom changes for the site is stored in this module"
+package = The Drupaler
+version = 7.x-1.0
+core = 7.x
+project = "td_utilities"
+
