@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Menu to create the nodes from audio files * 
+ */
+function td_import_audio_menu(){
+	$items['ia'] = array(
+    	'title' => 'Menu Example',
+    	'page callback' => '_td_import_audio_node_create',
+  		'access callback' => TRUE,
+  	);
+    return $items;
+}
+
+function _td_import_audio_node_create(){
+	return 'test';
+}

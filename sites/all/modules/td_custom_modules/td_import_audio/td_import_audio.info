@@ -1,0 +1,6 @@
+name = TD Import Audio files
+description = "Create node from the uploadled audio files"
+package = The Drupaler
+version = 7.x-1.0
+core = 7.x
+project = "td_import_audio"

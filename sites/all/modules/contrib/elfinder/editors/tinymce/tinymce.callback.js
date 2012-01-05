@@ -1,1 +1,0 @@
-// $Id$var elfinder_tinymce_callback = function(url) {          window.tinymceFileWin.document.forms[0].elements[window.tinymceFileField].value = url;          window.tinymceFileWin.focus();          window.close();}
