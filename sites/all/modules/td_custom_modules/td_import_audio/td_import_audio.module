@@ -13,5 +13,8 @@ function td_import_audio_menu(){
 }
 
 function _td_import_audio_node_create(){
-	return 'test';
+
+		$tt = variable_get('td_import_audio_dir_path', FALSE);
+		return $tt;
+
 }

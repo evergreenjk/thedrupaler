@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Implementation of hook_install().
+ * Create a directory if none exists.
+ */
+function td_import_audio_install(){
+//creates a folder called audio under private folder
+	$folder_name = 'audio';
+	$directory = variable_get('file_private_path',''). '/' . $folder_name;
+	if (!is_dir($directory)) {
+		drupal_mkdir($directory);
+		variable_set('td_import_audio_dir_path', $directory);
+	}
+}
